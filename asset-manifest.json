@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c94867b2.css",
+    "main.js": "/static/js/main.cfc389ef.js",
+    "static/js/787.62115142.chunk.js": "/static/js/787.62115142.chunk.js",
+    "static/media/banner-img.png": "/static/media/banner-img.f8519694d7f2a1577022.png",
+    "static/media/buzz1.png": "/static/media/buzz1.f67346195f048bd82b99.png",
+    "static/media/faq-img.png": "/static/media/faq-img.ac538eac416371292deb.png",
+    "static/media/buzz2.png": "/static/media/buzz2.1d8426e76e99e62de22b.png",
+    "static/media/buzz3.png": "/static/media/buzz3.1814addfb573c75803cf.png",
+    "static/media/footer-bg.png": "/static/media/footer-bg.c62de0fc552606b7a53c.png",
+    "static/media/banner-bg.png": "/static/media/banner-bg.fbc63f0a20fdf3182f4a.png",
+    "static/media/coin-bg.png": "/static/media/coin-bg.4d6d87b8f032b855fa35.png",
+    "static/media/select_coin.png": "/static/media/select_coin.5323dfc02ebc2c3306f2.png",
+    "static/media/footer-hand.png": "/static/media/footer-hand.2dce1bd3bd17f8dadbe6.png",
+    "static/media/binance.png": "/static/media/binance.b7db87e4a11fc8e4fc95.png",
+    "static/media/faq-coin.png": "/static/media/faq-coin.5041418d163538b03ae4.png",
+    "static/media/current-bizz.png": "/static/media/current-bizz.354c53755c3473a3095a.png",
+    "static/media/coin-sec.png": "/static/media/coin-sec.82bb7c4cf3cbc9b921c5.png",
+    "static/media/polygon.png": "/static/media/polygon.0beca733233cbeb54de9.png",
+    "static/media/select-after.png": "/static/media/select-after.e546f1fd76997e555cae.png",
+    "static/media/logo.png": "/static/media/logo.f84b999f9c847e4fe31a.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.c94867b2.css.map": "/static/css/main.c94867b2.css.map",
+    "main.cfc389ef.js.map": "/static/js/main.cfc389ef.js.map",
+    "787.62115142.chunk.js.map": "/static/js/787.62115142.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c94867b2.css",
+    "static/js/main.cfc389ef.js"
+  ]
+}
